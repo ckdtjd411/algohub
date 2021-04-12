@@ -1,6 +1,6 @@
 import React from 'react'
-import '../components/Home.css'
-import Algorithms from '../components/Algorithms'
+import './Home.css'
+import Algorithms from './Algorithms'
 
 class Home extends React.Component {
   state = {
@@ -77,7 +77,7 @@ class Home extends React.Component {
         </main>
         <footer>
           <div>
-            11
+            
           </div>
         </footer>
       </div>

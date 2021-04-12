@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 import propTypes from 'prop-types'
-import '../components/Algorithms.css'
+import './Algorithms.css'
 
 function Algorithms({category, detail, numberOfProblem}) {
   return <div className="category">
