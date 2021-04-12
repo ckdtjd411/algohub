@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ckdtjd411/algohub/static/css/main.fa6bfad7.chunk.css",
+    "main.js": "/ckdtjd411/algohub/static/js/main.5ee4bd58.chunk.js",
+    "main.js.map": "/ckdtjd411/algohub/static/js/main.5ee4bd58.chunk.js.map",
+    "runtime-main.js": "/ckdtjd411/algohub/static/js/runtime-main.63680aa2.js",
+    "runtime-main.js.map": "/ckdtjd411/algohub/static/js/runtime-main.63680aa2.js.map",
+    "static/js/2.d929a793.chunk.js": "/ckdtjd411/algohub/static/js/2.d929a793.chunk.js",
+    "static/js/2.d929a793.chunk.js.map": "/ckdtjd411/algohub/static/js/2.d929a793.chunk.js.map",
+    "static/js/3.ba40a7ac.chunk.js": "/ckdtjd411/algohub/static/js/3.ba40a7ac.chunk.js",
+    "static/js/3.ba40a7ac.chunk.js.map": "/ckdtjd411/algohub/static/js/3.ba40a7ac.chunk.js.map",
+    "index.html": "/ckdtjd411/algohub/index.html",
+    "static/css/main.fa6bfad7.chunk.css.map": "/ckdtjd411/algohub/static/css/main.fa6bfad7.chunk.css.map",
+    "static/js/2.d929a793.chunk.js.LICENSE.txt": "/ckdtjd411/algohub/static/js/2.d929a793.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63680aa2.js",
+    "static/js/2.d929a793.chunk.js",
+    "static/css/main.fa6bfad7.chunk.css",
+    "static/js/main.5ee4bd58.chunk.js"
+  ]
+}
